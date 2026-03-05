@@ -1,1 +1,12 @@
-{\n  "name": "bravo-control-ui",\n  "version": "1.0.0",\n  "description": "Bravo Control UI",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1"\n  }\n}\n
+{
+  "name": "bravo-control-ui",
+  "version": "1.0.0",
+  "description": "Bravo Control UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
